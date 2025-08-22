@@ -29,8 +29,8 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| [**Менеджер задач**](https://github.com/alexey4050/java-project-99) | Веб-приложение для управления задачами (CRUD, пользователи, бэкенд) | **Spring Boot, PostgreSQL, Hibernate, Liquibase** |
-| [**Валидатор данных**](https://github.com/alexey4050/DataValidator) | Утилита для валидации данных с помощью аннотаций | **Java, ООП, Reflection** |
+| [**Менеджер задач**](https://github.com/alexey4050/java-project-99) | Веб-приложение для управления задачами (CRUD, пользователи, бэкенд) | **Spring Boot, PostgreSQL, Hibernate, H2** |
+| [**Валидатор данных**](https://github.com/alexey4050/DataValidator) | Утилита для валидации данных с помощью аннотаций | **Java, ООП** |
 | [**Вычислитель отличий**](https://github.com/alexey4050/java-project-71) | CLI-утилита для поиска различий между двумя файлами (JSON, YAML) | **Java, CI (Github Actions), Jacoco** |
 | [**Анализатор страниц**](https://github.com/alexey4050/java-project-72) | Веб-приложение для анализа SEO-параметров веб-страниц | **Java, Javalin, JDBC, Bootstrap, PostgreSQL** |
 
