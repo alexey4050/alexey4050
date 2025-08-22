@@ -27,6 +27,14 @@
 | [**Анализатор страниц**](https://github.com/alexey4050/java-project-72) | Веб-приложение для анализа SEO-параметров веб-страниц | **Java, Javalin, JDBC, Bootstrap, PostgreSQL** |
 
 
+--- 
+<p align="center">
+  <a href="https://github.com/alexey4050">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexey4050&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Alexey's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexey4050&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  </a>
+</p>
+
 <!--
 **alexey4050/alexey4050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
