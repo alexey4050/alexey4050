@@ -2,6 +2,8 @@
 <h3 align="center">Java-разработчик с бэкграундом в здравоохранении</h3>
 <p align="center">Ищу команду, где смогу применить свои навыки аналитического мышления, работы в условиях стресса и системного подхода, полученные за 15+ лет в медицине.</p>
 
+---
+
 - 🔭 В настоящее время завершил обучение в **Hexlet** по профессии **Java-разработчик**.
 - 🌱 Углубленно изучаю **Java Core, Spring Boot и сопутствующие технологии**.
 - 👨‍💻 Все мои учебные и личные проекты доступны здесь: [https://github.com/alexey4050](https://github.com/alexey4050)
@@ -18,12 +20,23 @@
 
 ---
 ### 🛠️ Мой Tech Stack
+**Бэкенд:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white)
 
-*   **Языки:** Java, SQL
-*   **Фреймворки:** Spring Boot, JUnit
-*   **Базы данных:** PostgreSQL, H2
-*   **Инструменты:** Git, Maven, Gradle, Linux
-*   **Прочее:** HTTP, REST API, JDBC, Docker
+**Базы данных:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-1.4.200-1E8CBE?style=for-the-badge&logo=&logoColor=white)
+
+**Инструменты и прочее:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=&logoColor=white)
+
 ---
 ### 🚀 Ключевые проекты
 
@@ -43,6 +56,9 @@
   </a>
 </p>
 
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=alexey4050&style=flat-square&color=blue" alt="Просмотры профиля"/>
+</p>
 <!--
 **alexey4050/alexey4050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
