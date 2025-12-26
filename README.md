@@ -15,8 +15,8 @@
     *   **Системному подходу:** Видеть всю систему (пациент - оборудование - команда) и понимать, как изменение одного компонента влияет на остальные.
     *   **Командной работе:** Эффективно взаимодействовать с коллегами для достижения общей цели.
 - 🧠 **Этот опыт бесценен в разработке:** он помогает писать не просто работающий, а надежный, отказоустойчивый и продуманный код.
-- 📫 Как связаться со мной: [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="20" height="20"/> Telegram](https://t.me/AlexeyKiselevMikhaylovich)
-- ✉️ Email: **alexey4050@mail.ru**
+- 📫 Как связаться со мной: [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="20" height="20"/> Telegram]<!--(https://t.me/AlexeyKiselevMikhaylovich) -->
+- ✉️ Email: <!-- **alexey4050@mail.ru** -->
 
 ---
 ### 🛠️ Мой Tech Stack
